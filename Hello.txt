@@ -1,1 +1,2 @@
-this is file for testing the method of git.
+Git is a distributed version control system.
+Git is free software.
