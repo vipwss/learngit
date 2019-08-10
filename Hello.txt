@@ -3,6 +3,4 @@ Git is free software.
 
 我正在测试git的远程仓库使用
 
-测试分支
-
-冲突问题体现
+分支管理策略
