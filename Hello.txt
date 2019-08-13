@@ -6,3 +6,5 @@ Git is free software.
 分支管理策略
 
 我现在困了
+
+bug is fixed!
